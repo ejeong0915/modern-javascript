@@ -1,7 +1,6 @@
 # 소개 💁‍♂️
 
-<p align="center">
-    <img src="Modern JS.png" width="150" title="Modern JS">
+
 </p>
 
 <img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" width="75" title="Standard JS">
